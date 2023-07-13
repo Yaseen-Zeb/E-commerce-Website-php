@@ -1,0 +1,11 @@
+Installation Steps
+================
+
+Database Configuration:
+==================
+1. Open phpmyadmin
+2. Create New Database named "ecom".
+3. Import database tables in newly created database "ecom" from downloaded folder -> Installation Instructions -> ecom.sql.
+
+
+
